@@ -1,0 +1,9 @@
+{
+  "databaseServer": "MOHAMMAD-LAPTOP\\SQLEXPRESS",
+  "databaseName": "BWP401F22",
+  "databaseUsername": "sa",
+  "databasePassword": "mfbzLMC+ubfhvEy/OWooPA==",
+  "serverUrl": "http://localhost/API/",
+  "clientUrl": "http://localhost/WebStore",
+  "ImageDirectory": "Upload\\Image"
+}
